@@ -1,6 +1,6 @@
 # Task Manager App
 
-A simple task manager app that allows users to create, delete, and update tasks. The frontend is built using HTML, CSS, and vanilla JavaScript, while the backend is built using Node.js and MongoDB.
+A straightforward task manager application that lets users create, delete, and update tasks. The frontend uses HTML, CSS, and vanilla JavaScript, while the backend employs Node.js and MongoDB.
 
 ## Features
 
